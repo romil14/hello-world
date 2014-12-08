@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-my first repo
+my first repository for demo practice..
